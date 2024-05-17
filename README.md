@@ -10,7 +10,7 @@
 
 <p>👀 ONDE ME ENCONTRAR:</p>
 
-<a href="https://www.instagram.com/eu_miguell_01/"><img src="https://th.bing.com/th/id/R.1c4afc1e38fa2de56562b3582742d1bb?rik=32v30LcaKNVjLw&pid=ImgRaw&r=0" width="30px"></a>
-<a href="mailto:migueltsilvia@gmail.com"><img src="https://hanzheteng.files.wordpress.com/2022/12/gmail-logo.png" width="30px"></a>
+<a href="https://www.instagram.com/eu_miguell_01/" target="_blank"><img src="https://th.bing.com/th/id/R.1c4afc1e38fa2de56562b3582742d1bb?rik=32v30LcaKNVjLw&pid=ImgRaw&r=0" width="30px"></a>
+<a href="mailto:migueltsilvia@gmail.com" target="_blank"><img src="https://hanzheteng.files.wordpress.com/2022/12/gmail-logo.png" width="30px"></a>
 
 </div>
