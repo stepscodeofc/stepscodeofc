@@ -11,6 +11,6 @@
 <p>👀 ONDE ME ENCONTRAR:</p>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-coral?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu_miguell_01/)](https://www.instagram.com/eu_miguell_01/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:migueltsilvia)](migueltsilvia)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:migueltsilvia@gmail.com)](migueltsilvia)
 
 </div>
