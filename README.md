@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&random=false&width=435&lines=Programador+Front+End)](https://git.io/typing-svg)
 <p>🚀 MINHAS SKILLS:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,python,html,css,js,bootstrap,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,nodejs,js,bootstrap,&theme=light)](https://skillicons.dev)
 
 
 <p>👀 ONDE ME ENCONTRAR:</p>
