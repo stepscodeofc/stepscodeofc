@@ -1,4 +1,4 @@
-<img src="Logo2.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" z-index="-9999">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" z-index="-9999">
 
 <div align="left" z-index="1">
 
