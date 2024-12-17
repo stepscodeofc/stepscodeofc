@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,py,nodejs&theme=light)](https://skillicons.dev)
 
 
-<p>👀 ONDE NOS ENCONTRAR:</p>
+<p>👀 ONDE ME ENCONTRAR:</p>
 
 <a href="https://www.instagram.com/steps.code/" target="_blank"><img src="https://th.bing.com/th/id/R.1c4afc1e38fa2de56562b3582742d1bb?rik=32v30LcaKNVjLw&pid=ImgRaw&r=0" width="30px"></a>
 
