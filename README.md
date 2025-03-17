@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03FA6E&random=false&width=435&lines=Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> SKILLS:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,astro&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react&theme=light)](https://skillicons.dev)
 
 
 <p>👀 ONDE ME ENCONTRAR:</p>
